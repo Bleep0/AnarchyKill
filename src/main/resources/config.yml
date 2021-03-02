@@ -1,0 +1,3 @@
+#killmessage is the message we want to send to the player when they die. You can also use {player}
+#as a placeholder for the players name
+killmessage: '&cGoodbye cruel world...'

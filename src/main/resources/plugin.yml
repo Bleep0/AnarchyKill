@@ -1,0 +1,9 @@
+name: AnarchyKill
+version: ${project.version}
+main: dev.bleepo.anarchykill.AnarchyKill
+api-version: 1.16
+description: /kill plugin for anarchy servers
+commands:
+  kill:
+    description: kill yourself
+    usage: /<command>
